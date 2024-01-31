@@ -6,13 +6,13 @@ Created on Mon Jan 15 21:16:39 2024
 
 """
 
-## Function to return key, get csv data.
+## Function to return key, get csv data. grab the list of 1st or second item
 def MyKeyFn_One(a):
-    return a[1] #Data
+    return a[1] #Data (Amt)
 
 ## Function to return key, get csv data.
 def MyKeyFn_Zero(a):
-    return a[0] #Day
+    return a[0] #Day 
 
 # Test for increasing data
 def test_column_increasing(data, column_index):
@@ -29,36 +29,36 @@ def test_column_decreasing(data, column_index):
   return True
 
 # If data is always increasing, find the highest increasing value
-def find_highest_increase(data, column_index):
-  if not test_column_increasing(data, column_index):
-    return None
+# def find_highest_increase(data, column_index):
+#   if not test_column_increasing(data, column_index):
+#     return None
 
-  highest_increment_index = 0
-  highest_increment_amount = 0
+#   highest_increment_index = 0
+#   highest_increment_amount = 0
 
-  for i in range(1, len(data)):
-    current_increment = data[i][column_index] - data[i - 1][column_index]
-    if current_increment > highest_increment_amount:
-      highest_increment_index = i
-      highest_increment_amount = current_increment
+#   for i in range(1, len(data)):
+#     current_increment = data[i][column_index] - data[i - 1][column_index]
+#     if current_increment > highest_increment_amount:
+#       highest_increment_index = i
+#       highest_increment_amount = current_increment
 
-  return highest_increment_index, highest_increment_amount
+#   return highest_increment_index, highest_increment_amount
 
-# If data is always decreasing, find the highest decreasing value
-def find_highest_decrease(data, column_index):
-  if not test_column_decreasing(data, column_index):
-    return None
+# # If data is always decreasing, find the highest decreasing value
+# def find_highest_decrease(data, column_index):
+#   if not test_column_decreasing(data, column_index):
+#     return None
 
-  lowest_increment_index = 0
-  lowest_increment_amount = 0
+#   lowest_increment_index = 0
+#   lowest_increment_amount = 0
 
-  for i in range(1, len(data)):
-    current_decrement = data[i][column_index] - data[i - 1][column_index]
-    if current_decrement < lowest_increment_amount:
-      lowest_increment_index = i
-      lowest_increment_amount = current_decrement
+#   for i in range(1, len(data)):
+#     current_decrement = data[i][column_index] - data[i - 1][column_index]
+#     if current_decrement < lowest_increment_amount:
+#       lowest_increment_index = i
+#       lowest_increment_amount = current_decrement
 
-  return lowest_increment_index, lowest_increment_amount
+#   return lowest_increment_index, lowest_increment_amount
 
 
 
@@ -139,8 +139,8 @@ def check_data_for_difference(data, column_index):
     # Find all differences
     differences, text1, text2, text3 = find_differences(data, column_index)
     
-    positive_list = []
-    sorted_positive = []
+    positive_list = [] #convert to list
+    sorted_positive = [] #convert to list
     for i in range(1, len(differences)):
         if differences[i][column_index] > 0:
             print((differences[i]))
@@ -149,10 +149,10 @@ def check_data_for_difference(data, column_index):
     ## Sort base on Key[0], which is 'Day'
     ## sorted_positive = sorted(positive_list, key=lambda x: (x[0]), reverse=False)
     sorted_positive = sorted(positive_list, key=MyKeyFn_Zero, reverse=False)
+#key function will take first number on pos or neg list, then do reverse sorting. Pos list is arranged via biggest to smallest day, reverse function reverses taht.
 
-
-    negative_list = []
-    sorted_negative = []
+    negative_list = [] #convert to list
+    sorted_negative = [] #convert to list
     for i in range(1, len(differences)):
         if differences[i][column_index] < 0:
             print((differences[i]))
@@ -197,4 +197,4 @@ def cash_on_hand(data):
                 outfile.write("[Highest Cash Deficit] Day %s Amount: $%s \n" % (negative_top[0][0], abs(negative_top[0][1])))
                 outfile.write("[2nd Highest Cash Deficit] Day %s Amount: $%s \n" % (negative_top[1][0], abs(negative_top[1][1])))
                 outfile.write("[3rd Highest Cash Deficit] Day %s Amount: $%s \n" % (negative_top[2][0], abs(negative_top[2][1])))
- 
+            
