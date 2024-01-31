@@ -1,0 +1,169 @@
+[Highest Overhead]: Salary Expense  : 31.09%  
+[Cash Surplus] Day 14 Amount: $5075229.0 
+[Cash Surplus] Day 16 Amount: $203037.0 
+[Cash Surplus] Day 17 Amount: $3482792.0 
+[Cash Surplus] Day 23 Amount: $61329.0 
+[Cash Surplus] Day 24 Amount: $1321043.0 
+[Cash Surplus] Day 25 Amount: $2792472.0 
+[Cash Surplus] Day 28 Amount: $203716.0 
+[Cash Surplus] Day 29 Amount: $2761267.0 
+[Cash Surplus] Day 30 Amount: $128374.0 
+[Cash Surplus] Day 32 Amount: $142428.0 
+[Cash Surplus] Day 33 Amount: $572532.0 
+[Cash Surplus] Day 34 Amount: $2707393.0 
+[Cash Surplus] Day 35 Amount: $553737.0 
+[Cash Surplus] Day 36 Amount: $546362.0 
+[Cash Surplus] Day 38 Amount: $64613.0 
+[Cash Surplus] Day 40 Amount: $1140666.0 
+[Cash Surplus] Day 42 Amount: $1087870.0 
+[Cash Surplus] Day 43 Amount: $103138.0 
+[Cash Surplus] Day 44 Amount: $642506.0 
+[Cash Surplus] Day 45 Amount: $1291660.0 
+[Cash Surplus] Day 48 Amount: $526664.0 
+[Cash Surplus] Day 52 Amount: $1009919.0 
+[Cash Surplus] Day 54 Amount: $178232.0 
+[Cash Surplus] Day 55 Amount: $44885.0 
+[Cash Surplus] Day 57 Amount: $2233398.0 
+[Cash Surplus] Day 61 Amount: $383918.0 
+[Cash Surplus] Day 62 Amount: $247929.0 
+[Cash Surplus] Day 64 Amount: $137924.0 
+[Cash Surplus] Day 70 Amount: $763912.0 
+[Cash Surplus] Day 72 Amount: $947471.0 
+[Cash Surplus] Day 73 Amount: $1541696.0 
+[Cash Surplus] Day 76 Amount: $186662.0 
+[Cash Surplus] Day 78 Amount: $136403.0 
+[Cash Surplus] Day 80 Amount: $1390166.0 
+[Cash Surplus] Day 84 Amount: $4607197.0 
+[Cash Surplus] Day 85 Amount: $1032775.0 
+[Cash Surplus] Day 88 Amount: $83737.0 
+[Cash Surplus] Day 89 Amount: $764426.0 
+[Cash Surplus] Day 90 Amount: $27578.0 
+[Highest Cash Surplus] Day 14 Amount: $5075229.0 
+[2nd Highest Cash Surplus] Day 84 Amount: $4607197.0 
+[3rd Highest Cash Surplus] Day 17 Amount: $3482792.0 
+[Cash Deficit] Day 12 Amount: $2193369.0 
+[Cash Deficit] Day 13 Amount: $20747.0 
+[Cash Deficit] Day 15 Amount: $2535911.0 
+[Cash Deficit] Day 18 Amount: $435430.0 
+[Cash Deficit] Day 19 Amount: $191144.0 
+[Cash Deficit] Day 20 Amount: $125520.0 
+[Cash Deficit] Day 21 Amount: $1652507.0 
+[Cash Deficit] Day 22 Amount: $114584.0 
+[Cash Deficit] Day 26 Amount: $572419.0 
+[Cash Deficit] Day 27 Amount: $3189260.0 
+[Cash Deficit] Day 31 Amount: $428811.0 
+[Cash Deficit] Day 37 Amount: $1521274.0 
+[Cash Deficit] Day 39 Amount: $196503.0 
+[Cash Deficit] Day 41 Amount: $1956428.0 
+[Cash Deficit] Day 46 Amount: $158830.0 
+[Cash Deficit] Day 47 Amount: $78126.0 
+[Cash Deficit] Day 49 Amount: $279282.0 
+[Cash Deficit] Day 50 Amount: $205374.0 
+[Cash Deficit] Day 51 Amount: $400830.0 
+[Cash Deficit] Day 53 Amount: $1206001.0 
+[Cash Deficit] Day 56 Amount: $1178226.0 
+[Cash Deficit] Day 58 Amount: $675608.0 
+[Cash Deficit] Day 59 Amount: $493646.0 
+[Cash Deficit] Day 60 Amount: $1905408.0 
+[Cash Deficit] Day 63 Amount: $209731.0 
+[Cash Deficit] Day 66 Amount: $129539.0 
+[Cash Deficit] Day 67 Amount: $539132.0 
+[Cash Deficit] Day 68 Amount: $416673.0 
+[Cash Deficit] Day 69 Amount: $437621.0 
+[Cash Deficit] Day 71 Amount: $923011.0 
+[Cash Deficit] Day 74 Amount: $636342.0 
+[Cash Deficit] Day 75 Amount: $1124925.0 
+[Cash Deficit] Day 77 Amount: $1081696.0 
+[Cash Deficit] Day 79 Amount: $185069.0 
+[Cash Deficit] Day 81 Amount: $848633.0 
+[Cash Deficit] Day 82 Amount: $91472.0 
+[Cash Deficit] Day 83 Amount: $74196.0 
+[Cash Deficit] Day 86 Amount: $45676.0 
+[Cash Deficit] Day 87 Amount: $107357.0 
+[Highest Cash Deficit] Day 13 Amount: $20747.0 
+[2nd Highest Cash Deficit] Day 86 Amount: $45676.0 
+[3rd Highest Cash Deficit] Day 83 Amount: $74196.0 
+[Net Profit Surplus] Day 12 Amount: $165105.0 
+[Net Profit Surplus] Day 17 Amount: $3413044.0 
+[Net Profit Surplus] Day 18 Amount: $144337.0 
+[Net Profit Surplus] Day 21 Amount: $1255626.0 
+[Net Profit Surplus] Day 22 Amount: $76052.0 
+[Net Profit Surplus] Day 24 Amount: $1380388.0 
+[Net Profit Surplus] Day 25 Amount: $2142761.0 
+[Net Profit Surplus] Day 26 Amount: $524191.0 
+[Net Profit Surplus] Day 29 Amount: $2811692.0 
+[Net Profit Surplus] Day 30 Amount: $62833.0 
+[Net Profit Surplus] Day 32 Amount: $82705.0 
+[Net Profit Surplus] Day 33 Amount: $289828.0 
+[Net Profit Surplus] Day 34 Amount: $2710174.0 
+[Net Profit Surplus] Day 36 Amount: $1061036.0 
+[Net Profit Surplus] Day 38 Amount: $999.0 
+[Net Profit Surplus] Day 40 Amount: $1631382.0 
+[Net Profit Surplus] Day 42 Amount: $1783309.0 
+[Net Profit Surplus] Day 44 Amount: $1154081.0 
+[Net Profit Surplus] Day 45 Amount: $122064.0 
+[Net Profit Surplus] Day 46 Amount: $173921.0 
+[Net Profit Surplus] Day 47 Amount: $62649.0 
+[Net Profit Surplus] Day 48 Amount: $633257.0 
+[Net Profit Surplus] Day 49 Amount: $53016.0 
+[Net Profit Surplus] Day 51 Amount: $15492.0 
+[Net Profit Surplus] Day 52 Amount: $576708.0 
+[Net Profit Surplus] Day 53 Amount: $710455.0 
+[Net Profit Surplus] Day 54 Amount: $604070.0 
+[Net Profit Surplus] Day 57 Amount: $2570810.0 
+[Net Profit Surplus] Day 59 Amount: $83230.0 
+[Net Profit Surplus] Day 60 Amount: $10452.0 
+[Net Profit Surplus] Day 62 Amount: $560873.0 
+[Net Profit Surplus] Day 63 Amount: $5029.0 
+[Net Profit Surplus] Day 64 Amount: $29035.0 
+[Net Profit Surplus] Day 65 Amount: $5077828.0 
+[Net Profit Surplus] Day 66 Amount: $24470.0 
+[Net Profit Surplus] Day 67 Amount: $58713.0 
+[Net Profit Surplus] Day 68 Amount: $68840.0 
+[Net Profit Surplus] Day 70 Amount: $112398.0 
+[Net Profit Surplus] Day 71 Amount: $631458.0 
+[Net Profit Surplus] Day 72 Amount: $636638.0 
+[Net Profit Surplus] Day 73 Amount: $1822427.0 
+[Net Profit Surplus] Day 74 Amount: $60319.0 
+[Net Profit Surplus] Day 76 Amount: $92989.0 
+[Net Profit Surplus] Day 77 Amount: $77149.0 
+[Net Profit Surplus] Day 80 Amount: $788653.0 
+[Net Profit Surplus] Day 82 Amount: $623979.0 
+[Net Profit Surplus] Day 83 Amount: $79675.0 
+[Net Profit Surplus] Day 84 Amount: $4249689.0 
+[Net Profit Surplus] Day 85 Amount: $111242.0 
+[Net Profit Surplus] Day 86 Amount: $29063.0 
+[Net Profit Surplus] Day 88 Amount: $27767.0 
+[Net Profit Surplus] Day 89 Amount: $715721.0 
+[Highest Net Profit Surplus] Day 65 Amount: $5077828.0 
+[2nd Highest Net Profit Surplus] Day 84 Amount: $4249689.0 
+[3rd Highest Net Profit Surplus] Day 17 Amount: $3413044.0 
+[Net Profit Deficit] Day 13 Amount: $4599206.0 
+[Net Profit Deficit] Day 15 Amount: $7743.0 
+[Net Profit Deficit] Day 16 Amount: $2277872.0 
+[Net Profit Deficit] Day 19 Amount: $729110.0 
+[Net Profit Deficit] Day 20 Amount: $35001.0 
+[Net Profit Deficit] Day 23 Amount: $2654762.0 
+[Net Profit Deficit] Day 27 Amount: $604746.0 
+[Net Profit Deficit] Day 28 Amount: $260215.0 
+[Net Profit Deficit] Day 31 Amount: $1543023.0 
+[Net Profit Deficit] Day 35 Amount: $376737.0 
+[Net Profit Deficit] Day 37 Amount: $1140771.0 
+[Net Profit Deficit] Day 39 Amount: $1213967.0 
+[Net Profit Deficit] Day 41 Amount: $481152.0 
+[Net Profit Deficit] Day 43 Amount: $670309.0 
+[Net Profit Deficit] Day 50 Amount: $1755.0 
+[Net Profit Deficit] Day 55 Amount: $2471311.0 
+[Net Profit Deficit] Day 56 Amount: $49196.0 
+[Net Profit Deficit] Day 58 Amount: $1358378.0 
+[Net Profit Deficit] Day 61 Amount: $963605.0 
+[Net Profit Deficit] Day 69 Amount: $1014083.0 
+[Net Profit Deficit] Day 75 Amount: $1631133.0 
+[Net Profit Deficit] Day 78 Amount: $411772.0 
+[Net Profit Deficit] Day 79 Amount: $606866.0 
+[Net Profit Deficit] Day 81 Amount: $749786.0 
+[Net Profit Deficit] Day 87 Amount: $1752250.0 
+[Net Profit Deficit] Day 90 Amount: $34169.0 
+[Highest Net Profit Deficit] Day 50 Amount: $1755.0 
+[2nd Highest Net Profit Deficit] Day 15 Amount: $7743.0 
+[3rd Highest Net Profit Deficit] Day 90 Amount: $34169.0 
