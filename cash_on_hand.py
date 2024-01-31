@@ -2,22 +2,19 @@
 """
 Created on Mon Jan 15 21:16:39 2024
 
-@author: Lee, Ze-Xian
-
-generic_function.py - contain all generic functions
-read_file.py - read the CSV file into a list of lists
-check_data.py  - contain function to check list column data
+@author: Lee Ze Xian
 
 """
 
-## Function to return key
+## Function to return key, get csv data.
 def MyKeyFn_One(a):
-    return a[1]
+    return a[1] #Data
 
-## Function to return key
+## Function to return key, get csv data.
 def MyKeyFn_Zero(a):
-    return a[0]
+    return a[0] #Day
 
+# Test for increasing data
 def test_column_increasing(data, column_index):
   for i in range(1, len(data)):
     if data[i][column_index] <= data[i - 1][column_index]:
